@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\bin\Debug\zar_oyunu.exe.config
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\bin\Debug\zar_oyunu.exe
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\bin\Debug\zar_oyunu.pdb
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.Form1.resources
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.Properties.Resources.resources
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.exe
+C:\Users\yusuf\source\repos\zar_oyunu\zar_oyunu\obj\Debug\zar_oyunu.pdb
