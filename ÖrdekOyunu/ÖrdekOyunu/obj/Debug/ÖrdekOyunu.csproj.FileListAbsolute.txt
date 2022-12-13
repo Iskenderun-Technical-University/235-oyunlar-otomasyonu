@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\bin\Debug\ÖrdekOyunu.exe.config
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\bin\Debug\ÖrdekOyunu.exe
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\bin\Debug\ÖrdekOyunu.pdb
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.Form1.resources
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.Properties.Resources.resources
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.exe
+C:\Users\yusuf\source\repos\ÖrdekOyunu\ÖrdekOyunu\obj\Debug\ÖrdekOyunu.pdb
