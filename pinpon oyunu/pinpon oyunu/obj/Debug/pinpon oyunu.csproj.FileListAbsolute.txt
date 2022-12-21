@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\bin\Debug\pinpon oyunu.exe.config
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\bin\Debug\pinpon oyunu.exe
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\bin\Debug\pinpon oyunu.pdb
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon_oyunu.Form1.resources
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon_oyunu.Properties.Resources.resources
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.exe
+C:\Users\yusuf\source\repos\pinpon oyunu\pinpon oyunu\obj\Debug\pinpon oyunu.pdb
